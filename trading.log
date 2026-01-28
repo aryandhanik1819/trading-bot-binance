@@ -1,9 +1,0 @@
-2026-01-28 13:01:43,629 | INFO | Placing order: BTCUSDT BUY MARKET 0.001 None
-2026-01-28 13:01:45,511 | INFO | Order Response: {}
-2026-01-28 13:04:44,430 | INFO | Placing order: BTCUSDT BUY MARKET 0.001 None
-2026-01-28 13:04:46,734 | INFO | Order Response: {}
-2026-01-28 13:06:43,093 | INFO | Placing order: BTCUSDT BUY MARKET 0.01 None
-2026-01-28 13:06:44,423 | ERROR | Order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-01-28 13:06:44,424 | ERROR | APIError(code=-2015): Invalid API-key, IP, or permissions for action
-2026-01-28 13:12:18,868 | INFO | Placing order: BTCUSDT BUY MARKET 0.01 None
-2026-01-28 13:12:19,880 | INFO | Order Response: {'orderId': 12011615063, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ1939a293faa572a6418ea4', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1769586140414}
